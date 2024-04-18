@@ -1,3 +1,2 @@
-# My project
 
-## High Density Optical Detection System for Spectrometry
+## High Sensitivity Optical Detection System for Spectrometry
