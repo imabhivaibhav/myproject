@@ -1,3 +1,3 @@
 # My project
 
-## Line Follower Robot
+## High Density Optical Detection System for Spectrometry
