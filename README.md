@@ -1,6 +1,5 @@
-[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width="200" height="200">](linkedin-profile-url)
-<br>
-[<img src="linkedin-logo-url" alt="LinkedIn Logo" width="30">](linkedin-profile-url)
+[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width=100% height="200">](linkedin-profile-url)
+
 
 
 
