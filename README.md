@@ -1,5 +1,6 @@
 
 ![App Screenshot](https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg)
+<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width="200" height="200">
 
 
 # High Sensititvity Optical Detection System for Spectrometry
