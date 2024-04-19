@@ -6,7 +6,7 @@
 <div style="position: relative; width: 200px; height: 200px;">
   <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="My LinkedIn Profile" style="width: 200px; height: 200px;">
   <a href="https://www.linkedin.com/in/imabhivaibhav" style="position: absolute; bottom: 0; right: 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" width="30">
   </a>
 </div>
 
