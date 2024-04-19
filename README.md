@@ -1,3 +1,8 @@
+<!-- Title with Background Image -->
+<div style="background-image: url('https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg'); background-size: cover; padding: 50px;">
+  <h1 style="color: white; text-align: center;">Project Name</h1>
+</div>
+
 # High Sensititvity Optical Detection System for Spectrometry
 
 Welcome to our exciting venture within the Electrical Design Lab course (EDL) at IIT Bombay! As part of this project, we are pioneering advancements in spectrometry technology. Our focus lies in design an innovative electrical design solution tailored specifically for spectrometry applications. Through hands-on experimentation and collaboration, we aim to engineer a system that excels in sensitivity, accuracy, and reliability.
