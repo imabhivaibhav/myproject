@@ -7,13 +7,13 @@
 </div>
 <div style="display: flex;">
   <div style="position: relative; width: 200px; margin-right: 10px;">
-    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 1" style="width: 40%;">
+    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 1" style="width: 200px;">
     <a href="linkedin-profile-url" style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%);">
       <img src="linkedin-logo-url" alt="LinkedIn Logo" width="30">
     </a>
   </div>
   <div style="position: relative; width: 200px; margin-right: 10px;">
-    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 2" style="width: 50%;">
+    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 2" style="width: 200px;">
     <a href="linkedin-profile-url" style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%);">
       <img src="linkedin-logo-url" alt="LinkedIn Logo" width="30">
     </a>
