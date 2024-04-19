@@ -1,7 +1,7 @@
 
 
 <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width="200" height="200">
-[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" alt="Image Description" width="200" height="200">](https://www.linkedin.com/in/imabhivaibhav)
+[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" alt="Image Description" width="200" height="200">]([![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imabhivaibhav))
 
 
 
