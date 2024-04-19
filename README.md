@@ -1,7 +1,6 @@
-<!-- Title with Background Image -->
-<div style="background-image: url('https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg'); background-size: cover; padding: 50px;">
-  <h1 style="color: white; text-align: center;">Project Name</h1>
-</div>
+
+![App Screenshot](https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg)
+
 
 # High Sensititvity Optical Detection System for Spectrometry
 
