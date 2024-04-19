@@ -1,20 +1,26 @@
 
-
-<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width="200" height="200">
-[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" alt="Image Description" width="200" height="200">]([![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imabhivaibhav))
-
-<div style="position: relative; width: 200px; height: 200px;">
-  <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="My LinkedIn Profile" style="width: 200px; height: 200px;">
-  <a href="https://www.linkedin.com/in/imabhivaibhav" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" width="100">
-  </a>
-</div>
 <div style="position: relative; width: 200px; height: auto;">
   <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="My LinkedIn Profile" style="width: 50%;">
   <a href="https://www.linkedin.com/in/imabhivaibhav" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30">
   </a>
 </div>
+<div style="display: flex;">
+  <div style="position: relative; width: 200px; margin-right: 10px;">
+    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 1" style="width: 100%;">
+    <a href="linkedin-profile-url" style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%);">
+      <img src="linkedin-logo-url" alt="LinkedIn Logo" width="30">
+    </a>
+  </div>
+  <div style="position: relative; width: 200px; margin-right: 10px;">
+    <img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image 2" style="width: 100%;">
+    <a href="linkedin-profile-url" style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%);">
+      <img src="linkedin-logo-url" alt="LinkedIn Logo" width="30">
+    </a>
+  </div>
+  <!-- Add more divs for additional images -->
+</div>
+
 
 
 
